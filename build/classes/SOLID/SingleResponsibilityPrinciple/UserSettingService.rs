@@ -1,0 +1,3 @@
+SOLID.SingleResponsibilityPrinciple.UserSettingService
+SOLID.SingleResponsibilityPrinciple.UserSettingServiceGood
+SOLID.SingleResponsibilityPrinciple.SecurityService
