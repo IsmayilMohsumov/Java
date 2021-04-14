@@ -1,3 +1,0 @@
-CodeSmellClassExtracting.Birthday
-CodeSmellClassExtracting.Customer
-CodeSmellClassExtracting.Address

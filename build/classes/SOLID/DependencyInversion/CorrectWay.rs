@@ -1,4 +1,0 @@
-SOLID.DependencyInversion.Developer
-SOLID.DependencyInversion.BackEndDeveloper2
-SOLID.DependencyInversion.CorrectWay
-SOLID.DependencyInversion.FrontEndDeveloper2

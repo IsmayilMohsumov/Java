@@ -1,2 +1,0 @@
-Algorithms.LinkList
-Algorithms.Link

@@ -1,3 +1,0 @@
-SOLID.DependencyInversion.FrontEndDeveloper
-SOLID.DependencyInversion.Project
-SOLID.DependencyInversion.BackEndDeveloper

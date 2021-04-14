@@ -1,5 +1,0 @@
-DesignPatterns.Factory
-DesignPatterns.ShapeFactory
-DesignPatterns.Rectangle
-DesignPatterns.Shape
-DesignPatterns.Square

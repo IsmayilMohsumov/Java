@@ -1,7 +1,0 @@
-SOLID.InterfaceSegregation.JumpingAthlete
-SOLID.InterfaceSegregation.JohnDoe2
-SOLID.InterfaceSegregation.Explanation
-SOLID.InterfaceSegregation.Athlete
-SOLID.InterfaceSegregation.JohnDoe
-SOLID.InterfaceSegregation.SwimmingAthlete
-SOLID.InterfaceSegregation.Athletee

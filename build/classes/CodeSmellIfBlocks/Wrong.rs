@@ -1,5 +1,0 @@
-CodeSmellIfBlocks.Person
-CodeSmellIfBlocks.PersonDAO
-CodeSmellIfBlocks.DatabaseType
-CodeSmellIfBlocks.PersonValidation
-CodeSmellIfBlocks.Wrong
